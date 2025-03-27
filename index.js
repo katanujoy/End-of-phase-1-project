@@ -208,7 +208,7 @@ window.addEventListener('DOMContentLoaded', () => {
     faScript.crossOrigin = 'anonymous';
     document.head.appendChild(faScript);
     
-    // Show sample recipes
-    searchInput.value = 'pasta';
+    // Show sample recipes 
+    searchInput.value = 'chicken';
     searchMeals();
 });
